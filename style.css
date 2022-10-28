@@ -36,7 +36,6 @@ body {
 }
 .card-wrapper {
 	margin: 0 auto;
-
 	display: flex;
 	flex-direction: row;
 	align-items: center;
